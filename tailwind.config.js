@@ -16,7 +16,7 @@ module.exports = {
       },
       fontFamily:{
         'RedHat':["Red Hat Text", 'sans-serif']
-      }
+      },
 
     },
   },
