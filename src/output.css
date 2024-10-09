@@ -588,6 +588,10 @@ video {
   }
 }
 
+.absolute {
+  position: absolute;
+}
+
 .relative {
   position: relative;
 }
@@ -614,6 +618,22 @@ video {
 
 .-top-6 {
   top: -1.5rem;
+}
+
+.left-\[784px\] {
+  left: 784px;
+}
+
+.top-\[61px\] {
+  top: 61px;
+}
+
+.left-\[905px\] {
+  left: 905px;
+}
+
+.left-\[830px\] {
+  left: 830px;
 }
 
 .row-span-2 {
@@ -650,6 +670,10 @@ video {
 
 .mb-5 {
   margin-bottom: 1.25rem;
+}
+
+.mb-4 {
+  margin-bottom: 1rem;
 }
 
 .flex {
@@ -734,6 +758,26 @@ video {
 
 .w-\[157px\] {
   width: 157px;
+}
+
+.w-60 {
+  width: 15rem;
+}
+
+.w-80 {
+  width: 20rem;
+}
+
+.w-\[36\%\] {
+  width: 36%;
+}
+
+.w-\[720px\] {
+  width: 720px;
+}
+
+.w-\[730px\] {
+  width: 730px;
 }
 
 .max-w-36 {
@@ -924,6 +968,14 @@ video {
      object-fit: cover;
 }
 
+.p-5 {
+  padding: 1.25rem;
+}
+
+.p-8 {
+  padding: 2rem;
+}
+
 .px-12 {
   padding-left: 3rem;
   padding-right: 3rem;
@@ -975,6 +1027,34 @@ video {
   padding-right: 0.5rem;
 }
 
+.pb-8 {
+  padding-bottom: 2rem;
+}
+
+.pl-3 {
+  padding-left: 0.75rem;
+}
+
+.pl-8 {
+  padding-left: 2rem;
+}
+
+.pl-4 {
+  padding-left: 1rem;
+}
+
+.pt-6 {
+  padding-top: 1.5rem;
+}
+
+.pt-4 {
+  padding-top: 1rem;
+}
+
+.pl-16 {
+  padding-left: 4rem;
+}
+
 .font-RedHat {
   font-family: Red Hat Text, sans-serif;
 }
@@ -985,6 +1065,14 @@ video {
 
 .text-\[30px\] {
   font-size: 30px;
+}
+
+.text-\[23px\] {
+  font-size: 23px;
+}
+
+.text-\[13px\] {
+  font-size: 13px;
 }
 
 .font-semibold {
